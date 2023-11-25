@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[gui]
+	wmstate = normal
+	geometry = 1136x563+160+160 233 255
+[remote "origin"]
+	url = git@github.com:11k11k/userCart.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
